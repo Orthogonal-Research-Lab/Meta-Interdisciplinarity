@@ -8,7 +8,7 @@ Points to consider:
 
 * Twitter thread: Michael Nielsen, field and problem finding ([Twitter thread](https://twitter.com/michael_nielsen/status/1020717496301772802)).
 
-i) "make progress on big problems that are more or less obvious to everyone"
+* Quote from Twitter thread on problem-finding: "make progress on big problems that are more or less obvious to everyone".
 
 * recent example (April 2019): "Machine Behavior" -- Nature, doi:10.1038/s41586-019-1138-y.
 
