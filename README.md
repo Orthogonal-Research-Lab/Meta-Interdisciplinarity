@@ -18,11 +18,15 @@ Points to consider:
 
 3) fields as syntactic components and clusters.
 
+* example (2014): Syntactic N-grams as machine learning features for natural language processing. Expert Systems with Applications, 41(3), 853-860. [doi:10.1016/j.eswa.2013.08.015](https://www.sciencedirect.com/science/article/pii/S0957417413006271).
+
 * example: "How to find a scientific revolution: intellectual field formation and the analysis of terms", PsyarXiv, [doi:10.31234/osf.io/rhs9g](https://psyarxiv.com/rhs9g/).
 
 4) deep vs. broad knowledge.
 
-* skillset geometries. Referenced in [Synthetic Daisies, February 16, 2017](https://syntheticdaisies.blogspot.com/2017/02/a-peripheral-darwin-day-post-but.html)
+* example (2015): "Different personal propensities among scientists relate to deeper vs. broader knowledge contributions". PNAS, 112(12), 3653–3658. [doi: 10.1073/pnas.1421286112](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378433/).
+
+* skillset geometries. Referenced in [Synthetic Daisies, February 16, 2017](https://syntheticdaisies.blogspot.com/2017/02/a-peripheral-darwin-day-post-but.html).
 
 
 
