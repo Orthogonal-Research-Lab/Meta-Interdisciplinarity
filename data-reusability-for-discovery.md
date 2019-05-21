@@ -16,7 +16,7 @@ Create a “field-finding” review [3] and curated reference list (annotated bi
 ## Please list/tag other Ambassadors who’ve agreed to join your team and support the initiative
 Part of the existing data reuse course module is part of the “Reproducibility for Everybody” initiative. Ambassadors need no previous experience in the topic, and all are welcome. A short onboarding session will be held for potential collaborators.
 
-We are currently on an open timeline, although this may change as we approach Fall 2019. Collaborators can suggest contributions through a Github pull request, or submit their contributions to the project lead (Dr. Bradly Alicea).
+We are currently on an open timeline, although this may change as we approach Fall 2019. Collaborators can suggest contributions through a Github pull request, or submit their contributions to an initiative leader.
 
 ## REFERENCES:
 [1] Working paper: [Models for Data Recycling](https://github.com/Orthogonal-Research-Lab/Models-for-Data-Recycling)
