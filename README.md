@@ -2,6 +2,10 @@
 
 This repository will feature data and materials at the intersection of meta-science and interdisciplinarity.  
 
+### Data Science for Discovery:
+
+An initiative associated with the eLife Ambassadors program and the Reproducibility for Everybody initiative.  
+
 ### Points to consider:
 
 #### 1) field-finding 
