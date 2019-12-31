@@ -2,7 +2,7 @@
 
 This repository will feature data and materials at the intersection of meta-science and interdisciplinarity.  
 
-See also "[Data Reuse for Discovery](https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/tree/master/Data%20Reuse%20for%20Discovery)", an initiative associated with the eLife Ambassadors program and the [Reproducibility for Everybody](https://www.repro4everyone.org/) initiative.  
+See also "[Data Reuse for Discovery](https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/tree/master/Data%20Reuse%20for%20Discovery)", an initiative associated with the eLife Ambassadors program.  
 
 ### Points to consider:
 
