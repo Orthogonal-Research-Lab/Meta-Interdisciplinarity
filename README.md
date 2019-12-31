@@ -1,8 +1,8 @@
 ## Meta-interdisciplinarity
 
-This repository will feature data and materials at the intersection of meta-science and interdisciplinarity.  
+This repository will feature data and materials at the intersection of meta-science and interdisciplinarity. The focus is to consider the main topics and issues in the practice of interdisciplinarity, with application to emerging topics and [wicked problems](https://syntheticdaisies.blogspot.com/2012/09/a-brief-mention-of-wicked-problems.html).
 
-See also "[Data Reuse for Discovery](https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/tree/master/Data%20Reuse%20for%20Discovery)", an initiative associated with the eLife Ambassadors program.  
+See [this lecture]() for more information.
 
 ### Points to consider:
 
