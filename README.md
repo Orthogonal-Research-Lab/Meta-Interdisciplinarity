@@ -36,7 +36,7 @@ See also "[Data Reuse for Discovery](https://github.com/Orthogonal-Research-Lab/
 
 * example: "How to find a scientific revolution: intellectual field formation and the analysis of terms", PsyarXiv, [doi:10.31234/osf.io/rhs9g](https://psyarxiv.com/rhs9g/).
 
-#### 4) deep vs. broad knowledge.
+#### 5) deep vs. broad knowledge.
 
 * example (2015): "Different personal propensities among scientists relate to deeper vs. broader knowledge contributions". PNAS, 112(12), 3653–3658. [doi: 10.1073/pnas.1421286112](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378433/).
 
