@@ -18,7 +18,7 @@ See [this lecture]() for more information.
 
 #### 2) problem modularity
 
-* workflows. How to extract distinct problems out of a field of inquiry.
+* workflows. How to extract distinct problems out of a field of inquiry and how to decompose problems down into questions.
 
 * least publishable units (LPUs, sometimes called SPUs or MPUs). There seems to be no good literature on this with respect to problem definition.
 
@@ -27,6 +27,8 @@ See [this lecture]() for more information.
 #### 3) connectivity between fields.
 
 * example (June 2012): "Design and Update of a Classification System: The UCSD Map of Science" -- PLoS One, [doi:10.1371/journal.pone.0039464](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039464).
+
+* UCSD map of science and classification system  [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039464)
 
 * contrast between modularity and connectivity. Modularity is a way to break information into problems, Connectivity is a way to bridge between bodies of information.
 
