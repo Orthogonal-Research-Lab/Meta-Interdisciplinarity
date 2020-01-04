@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img width="1280" height="720" src="https://github.com/Orthogonal-Research-Lab/Meta-Interdisciplinarity/blob/master/Knowledge%20Shape/shapes-of-knowledge.png"><BR>
+  <img width="720" height="1280" src="https://github.com/Orthogonal-Research-Lab/Meta-Interdisciplinarity/blob/master/Knowledge%20Shape/shapes-of-knowledge.png"><BR>
  
 </p>
 
