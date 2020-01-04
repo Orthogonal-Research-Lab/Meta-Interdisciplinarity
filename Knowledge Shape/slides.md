@@ -19,8 +19,10 @@
 </p>
 
 <p align="center">
-  <img width="720" height="1280" src="https://github.com/Orthogonal-Research-Lab/Meta-Interdisciplinarity/blob/master/Knowledge%20Shape/shapes-of-knowledge.png"><BR>
- 
+  <img width="1280" height="720" src="https://github.com/Orthogonal-Research-Lab/Meta-Interdisciplinarity/blob/master/Knowledge%20Shape/shapes-of-knowledge.png"><BR>
+
+### Components of a Knowledge Shape (I-shape)
+
 </p>
 
 <p align="center">
@@ -28,8 +30,10 @@
  
 </p>
 
+### Example from Microcredentials (badges)
+
 <p align="center">
-  <img width="577" height="347" src="https://github.com/Orthogonal-Research-Lab/Meta-Interdisciplinarity/blob/master/Knowledge%20Shape/components-of-I-shape.png"><BR>
+  <img width="1244" height="630" src="https://github.com/Orthogonal-Research-Lab/Meta-Interdisciplinarity/blob/master/Knowledge%20Shape/knowledge-space-badges.png"><BR>
  
 </p>
 
